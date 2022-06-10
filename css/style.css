@@ -783,7 +783,9 @@ p.timeline-para {
   .page_1 .page_1__survey-creator .survey-creator-2 {
     padding: 0;
   }
-
+  .surveycreator p {
+    margin: 5% 0;
+  }
   .surveycreator .survey_creation {
     flex-direction: column;
     align-items: flex-start;
